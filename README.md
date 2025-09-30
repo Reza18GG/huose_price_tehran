@@ -5,7 +5,6 @@ Pridiction a House Price In City Tehran
     -pandas 
     -numpy
     -matplotlib
-    -seaborn
     -scikit-learn
     -xgboost
 
